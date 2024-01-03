@@ -90,7 +90,7 @@
     "timezone-js": "latest",
     "underscore": "latest",
     "uservoice-sso": "latest",
-    "validator": "1.1.3",
+    "validator": "13.7.0",
     "watch": "latest",
     "webshot": "0.15.1",
     "xml2js": "latest",
