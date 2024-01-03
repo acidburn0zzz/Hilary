@@ -54,7 +54,7 @@
     "mobile-detect": "latest",
     "multiparty": "latest",
     "node-esapi": "latest",
-    "nodemailer": "2.4.1",
+    "nodemailer": "6.6.1",
     "nodemailer-html-to-text": "latest",
     "nodemailer-sendmail-transport": "latest",
     "nodemailer-stub-transport": "latest",
